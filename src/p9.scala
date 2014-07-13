@@ -1,4 +1,3 @@
-
 object PE {
   // result: 31875000
   def main(args: Array[String]) {
