@@ -1,6 +1,7 @@
 import scala.annotation.tailrec
 
 object PE {
+  // result: 232792560
   def main(args: Array[String]) {
     println(listlcm(10))
     println(listlcm(20))
