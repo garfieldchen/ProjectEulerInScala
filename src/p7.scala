@@ -18,7 +18,6 @@ object PE {
     i - 2
   }
 
-
   def isPrim(n: Long) = n match{
     case 1 => false
     case 2 => true
